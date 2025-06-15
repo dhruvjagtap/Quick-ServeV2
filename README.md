@@ -1,3 +1,58 @@
+# 🚀 Quick Serve (v2)
+
+**Quick Serve** is a real-time service booking mobile app where customers can book professionals instantly or schedule in advance — rebuilt from scratch using **React Native + Firebase**.
+
+---
+
+## 🎯 Goals for v2.0
+
+- 🔒 Firebase Authentication (Google, Email/Password)
+- 👤 Role-based dashboards (Customer & Service Provider)
+- 🛠️ Real-time booking & urgent “QuickServe” logic
+- 📲 Push notifications for updates
+- 🧠 Modular, clean codebase
+- 🔄 Real-time status tracking using Firestore
+
+---
+
+## 📦 Tech Stack
+
+- **Frontend**: React Native (Expo)
+- **Backend**: Firebase (Auth, Firestore, Storage)
+- **Tools**: ESLint, Prettier, GitHub Actions (CI), Figma
+
+---
+
+## 🧱 Current Modules (In Progress)
+
+- [x] Firebase Setup
+- [x] Auth Screens (Login/Signup)
+- [x] Mock UI for Service Cards
+- [ ] Booking Logic
+- [ ] Role Dashboard
+- [ ] Notification Handling
+
+---
+
+##  Devlog Updates
+
+Follow the journey on [LinkedIn](https://www.linkedin.com/in/dhruv-jagtap-27486928a/)  
+Or check the `/devlogs` folder for daily updates.
+
+---
+
+## 🤝 Contributing
+
+This is currently a solo project, but collaboration ideas are welcome.
+
+---
+
+## 📜 License
+
+MIT License
+
+---
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
