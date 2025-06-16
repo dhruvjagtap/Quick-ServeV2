@@ -36,6 +36,7 @@ Users can instantly book professionals like electricians, plumbers, tutors, and 
 
 ## 📦 Tech Stack
 
+<<<<<<< HEAD
 | Layer       | Tech Used                             |
 |-------------|----------------------------------------|
 | Frontend    | React Native                          |
@@ -43,6 +44,15 @@ Users can instantly book professionals like electricians, plumbers, tutors, and 
 | CI/CD       | GitHub Actions *(Coming Soon)*        |
 | UI Design   | Figma                                 |
 | Tooling     | ESLint, Prettier                      |
+=======
+| Layer     | Tech Used                           |
+| --------- | ----------------------------------- |
+| Frontend  | React Native                        |
+| Backend   | Firebase (Auth, Firestore, Storage) |
+| CI/CD     | GitHub Actions _(Coming Soon)_      |
+| UI Design | Figma                               |
+| Tooling   | ESLint, Prettier                    |
+>>>>>>> 203c6ce (📝 Update README with features and roadmap)
 
 ---
 
@@ -113,7 +123,11 @@ Since you're considering startup plans, here are optional monetization strategie
 - 📢 **Ad Placement**: Local ads from vendors
 - ⚡ **Instant Booking Fees**: Small fee for urgent "QuickServe" jobs
 
+<<<<<<< HEAD
 *No need to implement now — just ideas for when you’re ready.*
+=======
+_No need to implement now — just ideas for when you’re ready._
+>>>>>>> 203c6ce (📝 Update README with features and roadmap)
 
 ---
 
@@ -126,7 +140,11 @@ You can also follow along on [LinkedIn – Dhruv Jagtap](https://www.linkedin.co
 
 ## 📷 Demo Screenshots
 
+<<<<<<< HEAD
 *Coming soon…*
+=======
+_Coming soon…_
+>>>>>>> 203c6ce (📝 Update README with features and roadmap)
 
 ---
 
