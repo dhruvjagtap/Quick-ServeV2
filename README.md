@@ -14,16 +14,23 @@ Users can instantly book professionals like electricians, plumbers, tutors, and 
 
 ## 🎯 Key Features
 
-- 🔒 Firebase Authentication (Google, Email/Password)
-- 👤 Role-based dashboards (Customer & Service Provider)
-- 📍 Nearby service discovery (within 5 km radius)
-- 🛠️ QuickServe: one-tap **emergency booking**
-- 🗓️ Advanced booking with availability checking
-- 📞 Chat, call & navigation to provider location
-- 🖼️ Service portfolios (images, likes, comments)
-- ⭐ Ratings, reviews & booking history
-- 🔔 Real-time notifications
-- 📊 Modular & scalable architecture
+- 🔐 Firebase Authentication (Google, Email/Password)
+- 👥 Dual-role login: **Customer** & **Service Provider**
+- 📍 Discover nearby providers within a 5km radius
+- ⚡ One-tap **QuickServe** for emergency bookings
+- 📅 Advanced booking with real-time availability
+- 💬 In-app chat & 📞 direct call support
+- 🗺️ View provider navigation/location
+- 🖼️ Portfolio uploads (images of past work)
+- ⭐ Ratings, reviews, and booking history
+- ✅ Verified/authenticated service providers
+- 📈 Analytics dashboard for providers
+- 🎯 Boost profile visibility (paid feature)
+- 🌐 Community feature for providers
+- 🧠 Consulting from top-rated experts
+- 🔔 Real-time push notifications
+- 🔄 Live booking updates via Firestore
+- 🧩 Modular, scalable app architecture
 
 ---
 
@@ -31,7 +38,7 @@ Users can instantly book professionals like electricians, plumbers, tutors, and 
 
 | Layer       | Tech Used                             |
 |-------------|----------------------------------------|
-| Frontend    | React Native (Expo)                   |
+| Frontend    | React Native                          |
 | Backend     | Firebase (Auth, Firestore, Storage)   |
 | CI/CD       | GitHub Actions *(Coming Soon)*        |
 | UI Design   | Figma                                 |
