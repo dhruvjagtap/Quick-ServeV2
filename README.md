@@ -36,15 +36,6 @@ Users can instantly book professionals like electricians, plumbers, tutors, and 
 
 ## 📦 Tech Stack
 
-<<<<<<< HEAD
-| Layer       | Tech Used                             |
-|-------------|----------------------------------------|
-| Frontend    | React Native                          |
-| Backend     | Firebase (Auth, Firestore, Storage)   |
-| CI/CD       | GitHub Actions *(Coming Soon)*        |
-| UI Design   | Figma                                 |
-| Tooling     | ESLint, Prettier                      |
-=======
 | Layer     | Tech Used                           |
 | --------- | ----------------------------------- |
 | Frontend  | React Native                        |
@@ -52,7 +43,6 @@ Users can instantly book professionals like electricians, plumbers, tutors, and 
 | CI/CD     | GitHub Actions _(Coming Soon)_      |
 | UI Design | Figma                               |
 | Tooling   | ESLint, Prettier                    |
->>>>>>> 203c6ce (📝 Update README with features and roadmap)
 
 ---
 
