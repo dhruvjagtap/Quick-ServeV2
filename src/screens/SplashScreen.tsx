@@ -12,9 +12,12 @@ type AuthStackParamList = {
   Home: undefined;
 };
 
-type Props = NativeStackScreenProps<AuthStackParamList, 'Splash'>;
+// type SplashScreenProps = {
+//   navigation: any;
+//   route: any;
+// };
 
-export default function SplashScreen({ navigation }: Props) {
+export default function SplashScreen({ navigation }: any) {
   const opacity = useRef(new Animated.Value(0)).current;
 
   useEffect(() => {
@@ -48,6 +51,6 @@ const styles = StyleSheet.create({
   logoText: {
     fontSize: 32,
     fontWeight: 'bold',
-    color: '#4B7BE5',
+    color: '#34718F',
   },
 });
